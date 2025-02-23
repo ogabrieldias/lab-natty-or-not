@@ -14,7 +14,7 @@ Utilizamos o ChatGPT para revisar pesquisas sobre Inteligência Artificial, estr
 ## 🚀 Resultados
 O e-book apresenta um conteúdo rico e detalhado sobre as tendências da Inteligência Artificial, demonstrando como essa tecnologia pode ser aplicada em diferentes setores. Além disso, conta com um design futurista e imagens criadas por IA, proporcionando uma experiência visual inovadora e envolvente.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1xvLz5WfkHGTWjUxhVTiIybKPFTYaj6he/view?usp=sharing)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o impacto da Inteligência Artificial e seu potencial de transformação. Através deste material, buscamos oferecer conhecimento acessível e relevante, incentivando uma compreensão mais profunda sobre como a IA está moldando o futuro.
