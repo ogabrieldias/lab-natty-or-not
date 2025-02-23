@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Inteligência Artificial em Ascensão🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book apresenta as principais tendências da Inteligência Artificial e como elas estão impactando diferentes setores da sociedade. Exploramos desde a IA generativa até a automação inteligente, ética e regulamentação, fornecendo insights valiosos para entender o futuro dessa tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **[Canva](https://www.canva.com/)** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizamos o ChatGPT para revisar pesquisas sobre Inteligência Artificial, estruturar o conteúdo e aprimorar as ideias apresentadas. O Leonardo AI foi empregado para gerar imagens exclusivas e ilustrar os conceitos abordados. Por fim, a montagem e edição final do e-book foram realizadas no Canva, garantindo um formato acessível e profissional.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo rico e detalhado sobre as tendências da Inteligência Artificial, demonstrando como essa tecnologia pode ser aplicada em diferentes setores. Além disso, conta com um design futurista e imagens criadas por IA, proporcionando uma experiência visual inovadora e envolvente.
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma experiência reveladora sobre o impacto da Inteligência Artificial e seu potencial de transformação. Através deste material, buscamos oferecer conhecimento acessível e relevante, incentivando uma compreensão mais profunda sobre como a IA está moldando o futuro.
